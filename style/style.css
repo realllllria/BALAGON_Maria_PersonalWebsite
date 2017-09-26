@@ -86,3 +86,12 @@ header a:hover{
     color:#ffffff;
     background:#231f20;
 }
+
+#subscribe h1{
+    float:left;    
+}
+
+#subscribe form{
+    float: right;
+    margin-top: 15px;
+}
