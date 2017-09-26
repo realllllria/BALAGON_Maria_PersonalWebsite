@@ -80,3 +80,9 @@ header a:hover{
     font-size: 20px;
     color:#ad974f;
 }
+
+#subscribe{
+    padding:15px;
+    color:#ffffff;
+    background:#231f20;
+}
