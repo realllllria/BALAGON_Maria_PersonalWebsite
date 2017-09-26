@@ -57,3 +57,9 @@ header .highlight, header .current a{
     color:#8e793e;
     font-weight:bold;
 }
+
+header a:hover{
+    color: #cccccc;
+    font-weight: bold;
+    
+}
