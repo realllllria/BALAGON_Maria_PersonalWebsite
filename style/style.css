@@ -117,11 +117,21 @@ header a:hover{
 #contacts .box{
     float: left;
     text-align: center;
+    color: #8e793e;
     width:30%;
     padding:15px;
   }
 
 #contacts .box img{
     width:40px;
+}
+
+footer{
+    padding: 20px;
+    margin-top: 20px;
+    color:#8e793e;
+    background-color:#231f20;
+    text-align: center;
+
 }
 
