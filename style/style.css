@@ -114,4 +114,6 @@ header a:hover{
     margin-top: 20px;
 }
 
-
+#boxes .box{
+    float: left;
+}
