@@ -26,6 +26,13 @@ ul {
     color: #ffffff;
 }
 
+.dark {
+    padding: 5px;
+    background:#231f20;
+    padding-left:20px;
+    padding-right: 20px;
+    color: #8e793e;
+}
 
 header{
     background:#231f20;
@@ -126,11 +133,19 @@ header a:hover{
 #contacts .box img{
     width:40px;
 }
-
-article#main-col{
+aside#sidebars{
     float: left;
-    width: 65%;
+    width: 20%;
+    margin-top: 10px;
+    
 }
+
+article#main{
+    float: right;
+    width: 65%;
+    color: #8e793e;
+}
+ 
 
 footer{
     padding: 20px;
