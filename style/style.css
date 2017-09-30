@@ -140,6 +140,11 @@ aside#sidebars{
     
 }
 
+aside#sidebars .quote input, aside#sidebars .quote textarea{
+    width:90%;
+    padding:5px;
+}
+
 article#main{
     float: right;
     width: 65%;
