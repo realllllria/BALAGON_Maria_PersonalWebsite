@@ -151,15 +151,6 @@ article#main{
     color: #8e793e;
 }
  
-
-footer{
-    padding: 20px;
-    margin-top: 20px;
-    color:#8e793e;
-    background-color:#231f20;
-    text-align: center;
-}
-
 #main {
      color: #8e793e;
 }
@@ -173,4 +164,25 @@ footer{
 
 #main .container {
 text-align-last: center;
+}
+
+
+footer{
+    padding: 20px;
+    margin-top: 20px;
+    color:#8e793e;
+    background-color:#231f20;
+    text-align: center;
+}
+
+
+/* Media queries*/
+@media(max-width: 768px){
+    header #branding,
+    header nav,
+    header nav li{
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
 }
