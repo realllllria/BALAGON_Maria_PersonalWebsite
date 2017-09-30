@@ -180,9 +180,26 @@ footer{
 @media(max-width: 768px){
     header #branding,
     header nav,
-    header nav li{
+    header nav li
+    #subscribe h1,
+    #subscribe form,
+    #contacts .box
+    article#main-col,
+    aside#sidebars{
         float: none;
         text-align: center;
         width: 100%;
+    }
+    header{
+        padding-bottom: 20px;
+    }
+    
+    #subscribe button{
+        display: block;
+        width: 100%;
+    }
+    #subscribe form input [type="email"]{
+        width: 100%;
+        margin-bottom: 5px;
     }
 }
