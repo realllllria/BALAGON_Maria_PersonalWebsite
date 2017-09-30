@@ -138,3 +138,13 @@ footer{
      color: #8e793e;
 }
 
+#main .container img{
+ margin-top: 10px;
+ border-radius: 360px;
+ float:left;
+ padding:20px;
+  }
+
+#main .container {
+text-align-last: center;
+}
